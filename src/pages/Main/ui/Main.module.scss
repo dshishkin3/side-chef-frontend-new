@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top:150px;
+}
+
+@media (width <=1450px) {
+    .main {
+        margin:0 10px;
+    }
+}
